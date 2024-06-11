@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [a schedule creator](notworkingyet)
 
-- 👨‍💻 All of my projects are available at (my troopl portfolio](https://troopl.com/sarahfink))
+- 👨‍💻 All of my projects are available at (my troopl portfolio](https://troopl.com/sarahfink)
 
 - 💬 Ask me about business, project management, streamlit css
 
