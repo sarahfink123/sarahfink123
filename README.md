@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [notworkingyet](notworkingyet)
 
-- 💬 Ask me about **streamlit css**
+- 💬 Ask me about business, project management, streamlit css
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
