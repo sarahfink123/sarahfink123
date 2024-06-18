@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sarah</h1>
 <h3 align="center">Just finished a data science & AI bootcamp with LeWagon in Berlin. I would love to combine my newly gained tech skills with my previous experience in business management.</h3>
 
-- 🔭 I’m currently working on [a schedule creator](notworkingyet)
+- 🔭 I’m currently working on [a schedule creator](https://github.com/sarahfink123/Enorm_Dienstplan)
 
 - 👨‍💻 All of my projects are available at [my troopl portfolio](https://troopl.com/sarahfink)
 
